@@ -57,7 +57,7 @@ After creating a new Organization, we can continue using this service. First we 
 docker login -u ******* -p ******* swr.ap-southeast-3.myhuaweicloud.com
 ```
 
-You can get your command from dashboard of SWR:
+You can get your command from dashboard of SWR:  
 ![alt text](image-1.png)
 
 After using the command, the output should be like this:  
