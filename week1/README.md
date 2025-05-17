@@ -45,7 +45,7 @@ This command builds the container and creates 2 image called `cartservice:latest
 
 - `1.0.1.` is an immutable snapshot: if you discover a bug or need to roll back, you can pull exactly `cartservice:1.0.1.` even after newer versions are released.
 
-## 4. Uplaoding Images to Huawei Cloud
+## 4. Uploading Images to Huawei Cloud
 
 Via [this service](https://www.huaweicloud.com/intl/en-us/product/swr.html) we can upload our images [freely](http://activity.huaweicloud.com/intl/en-us/free_packages/index.htmlwer) to cloud!
 
