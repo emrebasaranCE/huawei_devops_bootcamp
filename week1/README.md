@@ -1,11 +1,11 @@
 ## Contents
 
-1. [Introduction](#introduction)  
-2. [Downloading the Project](#1-downloading-the-project)  
-3. [Building the `cartservice` Service](#2-building-cartservice-service)  
+1. [Introduction](#1introduction)  
+2. [Downloading the Project](#2-downloading-the-project)  
+3. [Building the `cartservice` Service](#3-building-cartservice-service)  
    - [3.1 Why tag with both `latest` and a version?](#31-why-tag-with-both-latest-and-a-version)  
-4. [Uploading Images to Huawei Cloud](#3-uploading-images-to-huawei-cloud)  
-5. [Uploading Images to Docker Hub](#4-uploading-images-to-docker-hub)  
+4. [Uploading Images to Huawei Cloud](#4-uploading-images-to-huawei-cloud)  
+5. [Uploading Images to Docker Hub](#5-uploading-images-to-docker-hub)  
 
 
 ## 1. Introduction
