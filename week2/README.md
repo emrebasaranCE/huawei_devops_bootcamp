@@ -14,7 +14,7 @@
 
 ## 1. Introduction
 
-In second week of our bootcamp is focused on using Kubernetes.
+In second week of our bootcamp we are focused on using Kubernetes.
 
 ## 2. Installing Kubectl, Minikube and Helm
 

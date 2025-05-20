@@ -2,12 +2,11 @@
 
 Welcome to the **Huawei Cloud DevOps Bootcamp** repository! Here you’ll find:
 
-- **Comprehensive Tutorials**  
-- **Hands-On Examples**  
-- **Best Practices & Patterns**
-- **Reference Architectures**
+- Comprehensive Tutorials  
+- Hands-On Examples  
+- Best Practices & Patterns
 
---- 
+## Weekly Process
 
  - [Week 1 - README.md](week1/README.md)
     - Docker
@@ -20,4 +19,11 @@ Welcome to the **Huawei Cloud DevOps Bootcamp** repository! Here you’ll find:
     - Grafana
     - Huawei Cloud's Cloud Container Engine (CCE)
 
-    
+- [Week 3 - README.md](week3/README.md)
+    - Jenkins
+    - Kubernetes Configuration inside Jenkins
+    - Jenkins Pipeline
+    - Huawei Cloud's CodeArts
+      - Build
+      - Deploy
+      - Pipeline
