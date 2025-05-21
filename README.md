@@ -27,3 +27,7 @@ Welcome to the **Huawei Cloud DevOps Bootcamp** repository! Here you’ll find:
       - Build
       - Deploy
       - Pipeline
+ - [Week 4 - README.md](week4/README.md)
+    - Huawei Cloud's API Gateway Service
+    - Traefik
+    - APIG API Configurations
